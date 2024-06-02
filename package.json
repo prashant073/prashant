@@ -1,0 +1,19 @@
+{
+  "name": "my_folio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    
+    "dev": "vite --host --port 5173",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "i": "^0.3.7"
+    
+  }
+}
